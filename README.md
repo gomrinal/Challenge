@@ -1,8 +1,9 @@
 # Challenge
 
 ## SQL Questions:
-You can copy & paste my queries in the editor directly for seeing the results.
-Link: https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
+- Note:
+- You can copy & paste my queries in the editor directly for seeing the results.
+- Link: https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
 
 ### Q-1 How many orders were shipped by speedy express in total?
 
