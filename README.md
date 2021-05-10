@@ -1,11 +1,14 @@
 # Challenge
 
+## Data Science/Analysis Part:
+- Please refer the Notebook i.e Analysis.ipynb
+
 ## SQL Questions:
 - Note:
 - You can copy & paste my queries in the editor directly for seeing the results.
 - Link: https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL
 
-### Q-1 How many orders were shipped by speedy express in total?
+### Q-2.1 How many orders were shipped by speedy express in total?
 
 ```sql
 select count(*) as NumberofOrders
@@ -21,7 +24,7 @@ group by s.shippername;
 |  54 |
 
 
-### Q-2 What is the lastname of the employee with the most orders?
+### Q-2.2 What is the lastname of the employee with the most orders?
 ```sql
 select lastname from
 (
@@ -39,7 +42,7 @@ select lastname from
 |----------|
 | Peacock  |
 
-### Q-3 What product was ordered the most by customers in germany?
+### Q-2.3 What product was ordered the most by customers in germany?
 ```sql
 select productname
 from
